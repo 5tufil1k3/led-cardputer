@@ -9,3 +9,4 @@ if you press the reset button it loads back to micro hydra main screen with last
 
 MicroHydra:   https://github.com/echo-lalia/Cardputer-MicroHydra
 
+demo: https://www.youtube.com/shorts/vTFBUKHObwI
